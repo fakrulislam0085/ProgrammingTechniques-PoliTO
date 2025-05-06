@@ -1,0 +1,3 @@
+Welcome to the File I/O Practice!
+This file is designed to test word counting.
+Practice makes perfect.

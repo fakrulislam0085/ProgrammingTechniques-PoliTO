@@ -1,0 +1,4 @@
+Welcome to the File I/O Practice! I know how much you want to do it.
+This is a sample input file.
+It contains several lines of text for testing.
+Good luck with your programming exercises!
