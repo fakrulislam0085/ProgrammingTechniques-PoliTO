@@ -1,0 +1,5 @@
++ 45.74
+- 32.09
+* 1.49
+/ 2.00
+Error: Division by zero
