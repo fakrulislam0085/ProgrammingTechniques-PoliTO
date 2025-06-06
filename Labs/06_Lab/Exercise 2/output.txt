@@ -1,0 +1,36 @@
+Sequence 'no' is found in:
+  > Non (Position 1)
+  > non (Position 18)
+  > nonostante (Position 25)
+  > non (Position 31)
+  > turno (Position 40)
+
+Sequence 'al' is found in:
+  > alla (Position 7)
+  > al (Position 13)
+  > all (Position 16)
+  > iniziali (Position 28)
+  > allora (Position 34)
+  > all (Position 37)
+
+Sequence 'per' is found in:
+	->No string is matched!
+
+Sequence 's' is found in:
+  > sempre (Position 2)
+  > si (Position 3)
+  > capisce (Position 4)
+  > esercizio (Position 6)
+  > prestando (Position 11)
+  > testo (Position 14)
+  > esempio (Position 17)
+  > essere (Position 20)
+  > impossibile (Position 21)
+  > scrivere (Position 22)
+  > nonostante (Position 25)
+  > Se (Position 29)
+  > si (Position 32)
+  > capisce (Position 33)
+  > basta (Position 35)
+  > esercitatore (Position 38)
+
