@@ -1,3 +1,0 @@
-This      is   a test.   
-New lines  and   tabs
-should   not  mess it up.
