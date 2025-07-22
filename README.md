@@ -1,4 +1,4 @@
-> “If you want to pass Programming Techniques at PoliTO without crying, this is your cheat code. Period.” 😎
+> “If you want to pass Programming Techniques at PoliTO with good knowledge, read this, do all of the codes and finally go through the "Exam Questions" directory. You are all set!” 😎
 
 📚 Welcome to the ProgrammingTechniques-PoliTO Repository!  
 This repository is a comprehensive resource for the **Programming Techniques** course (Code: 02OJPLM), part of the Bachelor’s Degree in Computer Engineering, **Second Semester, First Year**, **Academic Year 2024–2025**, at Politecnico di Torino.
@@ -83,33 +83,42 @@ Dive into Lectures/ for course concepts and examples
 
 Check Exam Questions/ for theory, past papers, and strategy
 
-👉 Contribute
 
-Found an error or want to add more resources?
+## 👉 Contribute
+
+Found an error or want to add more resources?  
 Feel free to submit a pull request or contact me!
 
-👨‍💻 Author
-Fakrul Islam (Arif)
-📍 Computer Engineering Student @ PoliTO
-📬 Email: fakrulislam0085@gmail.com
-🔗 LinkedIn: linkedin.com/in/fakrul-islam-08
-📸 IG (study/life): @lifeatpolito
-💖 IG (personal): @fakhrulislam.arif
+---
 
-⭐ Support This Project
+## 👨‍💻 Author
 
-Leave a ⭐ on the project
+**Fakrul Islam (Arif)**  
+📍 Computer Engineering Student @ PoliTO  
+📬 Email: [fakrulislam0085@gmail.com](mailto:fakrulislam0085@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/fakrul-islam-08](https://www.linkedin.com/in/fakrul-islam-08)  
+📸 IG (study/life): [@lifeatpolito](https://www.instagram.com/lifeatpolito/)  
+💖 IG (personal): [@fakhrulislam.arif](https://www.instagram.com/fakhrulislam.arif)
 
-Share it with your PoliTO mates
+---
 
-Or just drop a kind message — it means the world 💙
+## ⭐ Support This Project
 
-📜 License
-This repository is licensed under the MIT License.
+- Leave a ⭐ on the project  
+- Share it with your classmates  
+- Or just drop a kind message – it means the world 💙
+
+---
+
+## 📜 License
+
+This repository is licensed under the **MIT License**.  
 Feel free to use and share these resources for educational purposes.
 
-"Keep coding. Keep growing. And don’t forget to smile while debugging."
+> *"Keep coding. Keep grinding. And try to be the exception, in a world full of algorithms.
+  — Anonymous"*
 
-Happy Studying, and Good Luck at PoliTO! 🚀
+---
 
+**Happy Studying, and Good Luck at PoliTO! 🚀**
 
