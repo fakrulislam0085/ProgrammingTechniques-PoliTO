@@ -1,7 +1,7 @@
 > “If you want to pass Programming Techniques at PoliTO with good knowledge, read this, do all of the codes and finally go through the "Exam Questions" directory. You are all set!” 😎
 
-📚 Welcome to the ProgrammingTechniques-PoliTO Repository!  
-This repository is a comprehensive resource for the **Programming Techniques** course (Code: 02OJPLM), part of the Bachelor’s Degree in Computer Engineering, **Second Semester, First Year**, **Academic Year 2024–2025**, at Politecnico di Torino.
+📚 Welcome to the ProgrammingTechniques-PoliTO Repository! 
+Read the about section please! Now, This repository is a comprehensive resource for the **Programming Techniques** course (Code: 02OJPLM), part of the Bachelor’s Degree in Computer Engineering, **Second Semester, First Year**, **Academic Year 2024–2025**, at Politecnico di Torino.
 
 It’s built with love and hard work to help fellow students navigate, learn, and pass the course — whether you’re reviewing lectures, tackling labs, or gearing up for the final exam.
 
