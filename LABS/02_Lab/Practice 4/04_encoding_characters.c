@@ -94,7 +94,6 @@ int encoding(FILE* fin, FILE* fout) {
         c0 = Cc;
 
     }
-
     return count;
 }
 
